@@ -1,9 +1,9 @@
 # about-bharath
 ## Repository Links
 
--[Source repo](https://github.com/bharathkumar3355/about-bharath)
+- [Source repo](https://github.com/bharathkumar3355/about-bharath)
 
--[Hosted repo](https://bharathkumar3355.github.io/about-bharath/)
+- [Hosted repo](https://bharathkumar3355.github.io/about-bharath/)
 
 ## About Repository
 
@@ -28,4 +28,4 @@ This repository gives the information about text, lists, and links tells the use
 Bharathkumar Gandhasiri MS-ACS
 
 ## Image
-!(Image)[https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png]
+![Image](https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png)
