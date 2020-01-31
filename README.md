@@ -1,3 +1,6 @@
 # about-bharath
 ##Repository Links
--[source repo](https://github.com/bharathkumar3355/about-bharath)
+
+-[Source repo](https://github.com/bharathkumar3355/about-bharath)
+
+-[Hosted repo](https://bharathkumar3355.github.io/about-bharath/)
