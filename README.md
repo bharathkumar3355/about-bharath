@@ -22,7 +22,7 @@ This repository gives the information about text, lists, and links tells the use
 
 2.[javascript](https://www.javascript.com/)
 
-3.[javascript](https://www.python.org/)
+3.[python](https://www.python.org/)
 
 ## Contributor
 Bharathkumar Gandhasiri MS-ACS
